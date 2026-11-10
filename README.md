@@ -15,8 +15,8 @@
 ```
 .
 ├── index.html          # Русская версия
-├── en/
-│   └── index.html      # Английская версия
+├── ru/
+│   └── index.html      # Русская версия
 ├── style.css           # Общие стили
 ├── script.js           # JavaScript функциональность
 └── README.md           # Документация
